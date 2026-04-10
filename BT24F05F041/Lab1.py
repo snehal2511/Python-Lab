@@ -1,3 +1,4 @@
+# Check Python installation
 import sys
 
 print("Python Version:", sys.version)
